@@ -11,9 +11,9 @@ Create a game where the user can make decisions and work through a simple story.
 
 ## Timeline
 - **Day 1**: Get assignment and get into groups
-- **Day 3**: Get feedback on GitHub
+- **Day 3**: Get feedback on GitHub **(worth 40%)**
 - Address/resolve feedback and prep for final submission
-- **Day 6**: Final submission assessed (only if feedback has been addressed)
+- **Day 6**: Final submission assessed (only if feedback has been addressed) **(worth 60%)**
 
 
 ## Submission requirements
