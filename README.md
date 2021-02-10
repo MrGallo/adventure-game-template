@@ -6,7 +6,7 @@
 - If-statements
 - Looping
 
-Create a game where the user can make decisions and work through a simple story.
+Create a game where the user can make decisions and work through a simple story. Put your working, most up-to-date code in main.py. Group members may choose to create other files to work within temporarily and to isolate their own contributions.
 
 
 ## Timeline
