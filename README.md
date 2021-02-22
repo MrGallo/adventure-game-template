@@ -29,7 +29,7 @@ ALthough this is a groups project, each member will be assessed individually bas
 2. Each member will pick examples from their own code highlighting each of the required concepts (more focus on if-statements and loops) and *be able to explain the code* as well as answer questions.
 3. The group will have a conference call with the teacher to present their program. This means everyone needs a working microphone. If this is an issue, please let me know **as soon as possible**.
 
-It will not be acceptable:
+**It will not be acceptable:**
 
 - for multiple group members to contribute on all the code. There must be clear and substantial spans of code that were written by only one person.
 - for multiple group members to re-purpose another member's code, changing only accidental aspects of the code and keeping the general structure the same (the English essay Thesaurus technique for plagiarising paragraphs).
