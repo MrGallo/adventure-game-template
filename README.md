@@ -8,7 +8,7 @@
 
 Create a game where the user can make decisions and work through a simple story. Put your working, most up-to-date code in `main.py`. Group members may choose to create other files to work within temporarily and to isolate their own contributions.
 
-ALthough this is a groups project, each member will be assessed individually based on their contributions. If a particular member is not contributing, they will be asked to decouple from the group and turn in something on their own.
+Although this is a groups project, each member will be assessed individually based on their contributions. If a particular member is not contributing, they will be asked to decouple from the group and turn in something on their own.
 
 
 ## Timeline
