@@ -33,3 +33,14 @@ ALthough this is a groups project, each member will be assessed individually bas
 
 - for multiple group members to contribute on all the code. There must be clear and substantial spans of code that were written by only one person.
 - for multiple group members to re-purpose another member's code, changing only accidental aspects of the code and keeping the general structure the same (the English essay Thesaurus technique for plagiarising paragraphs).
+
+## The Conference
+- Each member will present their code individually, although one member can be reasponsible for screen-sharing the code for everyone.
+- There will be a four minite time limit
+- Speak pricipally about:
+    - What feedback I gave you and how you implemented it (or why you chose not to)
+    - Your use of:
+        - Variables
+        - If statements
+        - Loops (optional)
+- I may inturrupt during the presentation to ask questions.
