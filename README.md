@@ -26,7 +26,7 @@ ALthough this is a groups project, each member will be assessed individually bas
     if code_not_attributed:
         mark = 0
     ```
-    It will not be acceptable for multiple group memebers to contribute on all the code. There must be clear and substantial spans of code that were written by only one person.
+    It will not be acceptable for multiple group members to contribute on all the code. There must be clear and substantial spans of code that were written by only one person.
 
 2. Each member will pick examples from their own code highlighting each of the required concepts (more focus on if-statements and loops) and *be able to explain the code* as well as answer questions.
 3. The group will have a conference call with the teacher to present their program. This means everyone needs a working microphone. If this is an issue, please let me know **as soon as possible**.
